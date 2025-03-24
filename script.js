@@ -11,7 +11,7 @@ function volume_sphere(event) {
 	else
 	{
 		alert("NaN");
-		document.getElementById("volume").value="invalid";
+		document.getElementById("volume").value="NaN";
 	}
 	
   
